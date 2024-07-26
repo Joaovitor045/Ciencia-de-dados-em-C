@@ -1,10 +1,8 @@
 /************************************************************************************
-  Aluno: João Vitor Alves Viana
-  Matrícula: 22006122
+  João Vitor Alves Viana
 
   Declaro que eu sou o autor deste trablho e que o código não foi copiado de outra 
-  pessoa nem repassado para alguém. Estou ciente de que poderei sofrer penalizações na 
-  avaliação em caso de detecção de plágio.
+  pessoa nem repassado para alguém.
 *************************************************************************************/
   
 
